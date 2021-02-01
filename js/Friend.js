@@ -686,7 +686,7 @@
                         key: "init",
                         value: function () {
                             console.log(
-                                "\n %c OYutils-friend %c https://cdn.jsdelivr.net/gh/OYCodeSite/CDN@0.2/js/Friend.js \n",
+                                "\n %c OYutils-friend %c https://cdn.jsdelivr.net/gh/OYCodeSite/CDN@0.3/js/Friend.js \n",
                                 "color: #fff; background: #4285f4; padding:5px 0;",
                                 "background: #66CCFF; padding:5px 0;"), this.getPageFriend()
                         }
